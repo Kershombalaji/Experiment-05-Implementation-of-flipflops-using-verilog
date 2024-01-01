@@ -1,7 +1,7 @@
 # Experiment 05-Implementation of Flipflops using Verilog
 
-## NAME : BALAJI V
-## REG NO: 212223050008
+### NAME : BALAJI V
+### REG NO: 212223050008
 
 ### AIM:
 To implement all the flipflops using Verilog and validating their functionality using their functional tables
