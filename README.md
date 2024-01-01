@@ -1,4 +1,4 @@
-# Experiment 05-Implementation of Flipflops using Verilog
+# Experiment 05-Implementation of Flipflops using Verilog HDL.
 
 ### NAME : BALAJI V
 ### REG NO: 212223050008
