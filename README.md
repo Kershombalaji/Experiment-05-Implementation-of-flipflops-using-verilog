@@ -3,8 +3,8 @@
 ## NAME : BALAJI V
 ## REG NO: 212223050008
 
-## Experiment--05-Implementation-of-flipflops-using-Verilog
-### AIM: To implement all the flipflops using Verilog and validating their functionality using their functional tables
+### AIM:
+To implement all the flipflops using Verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II, USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
